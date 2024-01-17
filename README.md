@@ -1,2 +1,4 @@
 # arb_op_delegate
-Delegate your ARB and OP tokens
+Делегирует ваши токены указаному делегатору в сети Арбитрум либо Оптимизм
+
+Переименуйте private_keys.example в private_keys.txt и приватники поместите сюда.
