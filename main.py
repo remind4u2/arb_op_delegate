@@ -53,6 +53,12 @@ def run():
             cprint(f'Something went wrong: {error}', 'red')
 
 if __name__ == "__main__":
+    cprint(f'Ты получишь мега иксы в 2024 году    https://t.me/slow_rich', 'blue')
+    cprint(f'Ты получишь мега иксы в 2024 году    https://t.me/slow_rich', 'blue')
+    cprint(f'Ты получишь мега иксы в 2024 году    https://t.me/slow_rich', 'blue')
     run()
+    cprint(f'Бычка уже рядом. ZKF по 1$ !!!       https://t.me/slow_rich', 'blue')
+    cprint(f'Бычка уже рядом. ZKF по 1$ !!!       https://t.me/slow_rich', 'blue')
+    cprint(f'Бычка уже рядом. ZKF по 1$ !!!       https://t.me/slow_rich', 'blue')
 
    
