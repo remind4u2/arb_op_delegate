@@ -3,6 +3,9 @@
 
 Переименуйте private_keys.example в private_keys.txt и приватники поместите сюда.
 
+В файлк config.py выбери сеть:
+CHAIN_FOR_DELEGATE = 'ARBITRUM'  #  'ARBITRUM' , 'OPTIMISM'
+
 Информация по обновлению скрипта в канале:
 https://t.me/slow_rich
 

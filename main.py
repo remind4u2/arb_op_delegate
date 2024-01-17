@@ -2,7 +2,7 @@ from web3 import Web3
 from data.utils import *
 
 
-def delegate_arb(key, src_chain):
+def delegate_tokens(key, src_chain):
     function_name = inspect.stack()[0][3]
     cprint(f'>>> start {function_name}: {src_chain}')
 
@@ -47,7 +47,7 @@ def run():
         cprint(f'{i}. {scan}/address/{my_address} :', 'magenta')
 
         try:  
-            delegate_arb(key, chain)
+            delegate_tokens(key, chain)
             sleeping(SLEEP_MIN, SLEEP_MAX)
         except Exception as error:
             cprint(f'Something went wrong: {error}', 'red')
